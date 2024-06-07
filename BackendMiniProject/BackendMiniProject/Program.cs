@@ -20,6 +20,7 @@ builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
 
 builder.Services.AddScoped<ISliderService, SliderService>();
+builder.Services.AddScoped<IInformationService, InformationService>();
 
 
 

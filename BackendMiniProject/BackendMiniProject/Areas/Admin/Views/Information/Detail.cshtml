@@ -1,0 +1,28 @@
+﻿@model Information
+
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+
+<main id="main" class="main">
+    <div class="container" style="margin-left:30px;margin-top:100px;max-width:1160px;overflow-x: hidden;">
+        <div class="row">
+            <div class="col-md-5">
+                <p><b>Informations:</b> </p>
+                <div class="project-info-box">
+                    <p><b>Title:</b> @Model.Title</p>
+                    <p><b>Description:</b> @Model.Description</p>
+                    <p><b>Created date:</b> @Model.CreatedDate</p>
+                </div>
+                <div class="col-md-7">
+                    <img style="witdh:200px;height:200px;" src="~/admin/assets/images/@Model.Icon" alt="project-image" class="rounded">
+                    <div class="project-info-box">
+                        <a asp-action="Index" class="btn btn-danger mt-3">Back</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
