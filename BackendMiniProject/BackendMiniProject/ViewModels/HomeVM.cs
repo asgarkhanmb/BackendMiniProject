@@ -1,4 +1,5 @@
-﻿using BackendMiniProject.ViewModels.Informations;
+﻿using BackendMiniProject.Models;
+using BackendMiniProject.ViewModels.Informations;
 using BackendMiniProject.ViewModels.Sliders;
 
 namespace BackendMiniProject.ViewModels
@@ -8,5 +9,7 @@ namespace BackendMiniProject.ViewModels
     {
         public IEnumerable<SliderVM> Sliders {  get; set; }
         public IEnumerable<InformationVM> Informations { get; set; }
+
+        public About Abouts { get; set; }
     }
 }

@@ -1,5 +1,5 @@
 ﻿using BackendMiniProject.Data;
-using BackendMiniProject.Helpers;
+using BackendMiniProject.Helpers.Extensions;
 using BackendMiniProject.Models;
 using BackendMiniProject.Services;
 using BackendMiniProject.Services.Interfaces;
@@ -84,7 +84,7 @@ namespace BackendMiniProject.Areas.Admin.Controllers
             var deletedSlider = await _context.Sliders.FindAsync(id);
             if (deletedSlider == null) return NotFound();
 
-            string path = _env.GenerateFilePath("img", deletedSlider.Image);
+            string path = _env.GenerateFilePath("admin/assets/images", deletedSlider.Image);
 
             path.DeleteFileFromLocal();
 

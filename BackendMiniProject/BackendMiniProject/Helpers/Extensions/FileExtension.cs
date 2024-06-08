@@ -1,4 +1,4 @@
-﻿namespace BackendMiniProject.Helpers
+﻿namespace BackendMiniProject.Helpers.Extensions
 {
     public static class FileExtension
     {

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq\\backendminiproject\\backendminiproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq\\backendminiproject\\backendminiproject\\areas\\admin\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq\\backendminiproject\\backendminiproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq\\backendminiproject\\backendminiproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq\\backendminiproject\\backendminiproject\\viewmodels\\abouts\\aboutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\viewmodels\\abouts\\aboutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq\\backendminiproject\\backendminiproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq\\backendminiproject\\backendminiproject\\views\\shared\\components\\slider\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\views\\shared\\components\\slider\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq\\backendminiproject\\backendminiproject\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq\\backendminiproject\\backendminiproject\\areas\\admin\\views\\information\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\information\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq\\backendminiproject\\backendminiproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\yeni qovluq\\backendminiproject\\backendminiproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,45 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T15:03:56.856Z",
+              "WhenOpened": "2024-06-08T10:46:23.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T08:21:49.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Information\\Index.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Information\\Index.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Information\\Index.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Information\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T08:21:03.489Z",
+              "Title": "AboutVM.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Abouts\\AboutVM.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\Abouts\\AboutVM.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Abouts\\AboutVM.cs",
+              "RelativeToolTip": "BackendMiniProject\\ViewModels\\Abouts\\AboutVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:36:32.25Z",
               "EditorCaption": ""
             },
             {
@@ -85,41 +72,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Views\\Shared\\Components\\Slider\\Default.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Views\\Shared\\Components\\Slider\\Default.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Views\\Shared\\Components\\Slider\\Default.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Views\\Shared\\Components\\Slider\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T08:16:08.904Z",
+              "DocumentIndex": 4,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:36:43.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAIwAAAAAAAAAAAAuwI8AAAAhAAAA",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T08:03:53.788Z",
+              "WhenOpened": "2024-06-08T09:33:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BackendMiniProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:48:55.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T08:02:15.779Z",
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "BackendMiniProject\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:48:23.185Z",
               "EditorCaption": ""
             }
           ]

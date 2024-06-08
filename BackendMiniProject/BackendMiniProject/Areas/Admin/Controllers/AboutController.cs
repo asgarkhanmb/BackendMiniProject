@@ -3,34 +3,35 @@ using BackendMiniProject.Helpers.Extensions;
 using BackendMiniProject.Models;
 using BackendMiniProject.Services;
 using BackendMiniProject.Services.Interfaces;
+using BackendMiniProject.ViewModels.Abouts;
 using BackendMiniProject.ViewModels.Informations;
-using BackendMiniProject.ViewModels.Sliders;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace BackendMiniProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class InformationController : Controller
+    public class AboutController : Controller
     {
-
         private readonly AppDbContext _context;
         private readonly IWebHostEnvironment _env;
-        private readonly IInformationService _informationService;
-        public InformationController(AppDbContext context,
+        private readonly IAboutService _aboutService;
+        public AboutController(AppDbContext context,
                                 IWebHostEnvironment env,
-                                IInformationService ınformationService)
+                                IAboutService aboutService)
         {
             _context = context;
             _env = env;
-            _informationService = ınformationService;
+            _aboutService = aboutService;
+            
         }
-        public async Task<IActionResult> Index()
+        public async  Task<IActionResult> Index()
         {
-            var inform = await _context.Informations.ToListAsync();
-            List<InformationVM> information = await _context.Informations.Select(m => new InformationVM { Id = m.Id, Icon = m.Icon, Title = m.Title, Description = m.Description })
-                                                           .ToListAsync();
-            return View(information);
+            var about = await _context.Abouts.ToListAsync();
+            List<AboutVM> aboutt = await _context.Abouts.Select(m => new AboutVM { Id = m.Id, Image = m.Image, Title = m.Title, Description = m.Description })
+                                                        .ToListAsync();
+            return View(aboutt);
+         
         }
         [HttpGet]
         public IActionResult Create()
@@ -39,7 +40,7 @@ namespace BackendMiniProject.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(InformationCreateVM request)
+        public async Task<IActionResult> Create(AboutCreateVM request)
         {
             if (!ModelState.IsValid)
             {
@@ -47,12 +48,12 @@ namespace BackendMiniProject.Areas.Admin.Controllers
             }
 
 
-            if (!request.Icon.CheckFileType("image/"))
+            if (!request.Image.CheckFileType("image/"))
             {
                 ModelState.AddModelError("Image", "Input can accept only image format");
                 return View();
             }
-            if (!request.Icon.CheckFileSize(200))
+            if (!request.Image.CheckFileSize(200))
             {
                 ModelState.AddModelError("Image", "Image size must be max 200 KB");
                 return View();
@@ -60,13 +61,13 @@ namespace BackendMiniProject.Areas.Admin.Controllers
 
 
 
-            string fileName = Guid.NewGuid().ToString() + "-" + request.Icon.FileName;
+            string fileName = Guid.NewGuid().ToString() + "-" + request.Image.FileName;
 
-            string path = Path.Combine(_env.WebRootPath, "admin/assets/images", fileName);
+            string path = Path.Combine(_env.WebRootPath, "admin/assets/images/", fileName);
 
-            await request.Icon.SaveFileToLocalAsync(path);
+            await request.Image.SaveFileToLocalAsync(path);
 
-            await _context.Informations.AddAsync(new Models.Information { Icon = fileName, Title = request.Title, Description = request.Description });
+            await _context.Abouts.AddAsync(new Models.About { Image = fileName, Title = request.Title, Description = request.Description });
 
             await _context.SaveChangesAsync();
 
@@ -80,14 +81,14 @@ namespace BackendMiniProject.Areas.Admin.Controllers
         {
             if (id == null)
                 return BadRequest();
-            var deleteInform = await _context.Informations.FindAsync(id);
-            if (deleteInform == null) return NotFound();
+            var deleteAbout = await _context.Abouts.FindAsync(id);
+            if (deleteAbout == null) return NotFound();
 
-            string path = _env.GenerateFilePath("admin/assets/images", deleteInform.Icon);
+            string path = _env.GenerateFilePath("admin/assets/images/", deleteAbout.Image);
 
             path.DeleteFileFromLocal();
 
-            _context.Informations.Remove(deleteInform);
+            _context.Abouts.Remove(deleteAbout);
 
             await _context.SaveChangesAsync();
 
@@ -97,10 +98,10 @@ namespace BackendMiniProject.Areas.Admin.Controllers
         [HttpGet]
         public async Task<IActionResult> Detail(int? id)
         {
-            Information inform = await _informationService.GetByIdAsync((int)id);
+            About about = await _aboutService.GetByIdAsync((int)id);
 
 
-            return View(inform);
+            return View(about);
         }
         [HttpGet]
         public async Task<IActionResult> Edit(int? id)
@@ -110,17 +111,17 @@ namespace BackendMiniProject.Areas.Admin.Controllers
                 return BadRequest();
             }
 
-            var inform = await _context.Informations.FindAsync(id);
-            if (inform == null)
+            var result = await _context.Abouts.FindAsync(id);
+            if (result == null)
             {
                 return NotFound();
             }
 
-            var viewModel = new InformationEditVM
+            var viewModel = new AboutEditVM
             {
-                Icon = inform.Icon,
-                Title = inform.Title,
-                Description = inform.Description
+                Image = result.Image,
+                Title = result.Title,
+                Description = result.Description
 
             };
 
@@ -129,15 +130,15 @@ namespace BackendMiniProject.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int? id, InformationEditVM request)
+        public async Task<IActionResult> Edit(int? id, AboutEditVM request)
         {
             if (id == null)
             {
                 return BadRequest();
             }
 
-            var information = await _context.Informations.FindAsync(id);
-            if (information == null)
+            var about = await _context.Abouts.FindAsync(id);
+            if (about == null)
             {
                 return NotFound();
             }
@@ -156,22 +157,24 @@ namespace BackendMiniProject.Areas.Admin.Controllers
                     return View(request);
                 }
 
-                string oldPath = _env.GenerateFilePath("admin/assets/images", information.Icon);
+                string oldPath = _env.GenerateFilePath("admin/assets/images/", about.Image);
                 oldPath.DeleteFileFromLocal();
                 string fileName = Guid.NewGuid().ToString() + "-" + request.NewImage.FileName;
-                string newPath = _env.GenerateFilePath("admin/assets/images", fileName);
+                string newPath = _env.GenerateFilePath("admin/assets/images/", fileName);
                 await request.NewImage.SaveFileToLocalAsync(newPath);
-                information.Icon = fileName;
+                about.Image = fileName;
             }
 
 
-            information.Title = request.Title;
-            information.Description = request.Description;
+            about.Title = request.Title;
+            about.Description = request.Description;
 
 
             await _context.SaveChangesAsync();
 
             return RedirectToAction(nameof(Index));
         }
+
+
     }
 }
