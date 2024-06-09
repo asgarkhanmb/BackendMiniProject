@@ -7,7 +7,7 @@
 
 
 <div class="container mt-5">
-    <h2 class="text-center">Category</h2>
+    <h2 class="text-center">Categories</h2>
     <div class="create-operation">
         <a asp-action="Create" class="btn btn-success text-white btn-sm"><i class="ti-plus"></i></a>
     </div>
@@ -28,7 +28,6 @@
                     {
 
                         <tr>
-
                             <td>
                                 @item.CategoryName
 
@@ -39,10 +38,7 @@
 
                                 <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-primary text-white btn-sm"><i class="ti-info"></i></a>
                                 <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning text-white btn-sm"><i class="ti-pencil"></i></a>
-                                @if (Model.Count() == 1)
-                                {
-
-                                }
+                                @if (Model.Count() == 1) { }
                                 else
                                 {
                                     <form class="d-inline" asp-action="Delete" method="post" asp-route-id="@item.Id">

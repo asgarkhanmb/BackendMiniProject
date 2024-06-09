@@ -237,6 +237,10 @@
       "PackagePath": "staticwebassets\\admin\\assets\\images\\00d94286-2fc1-4bfc-9abd-5e17f68897b9-home.png"
     },
     {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\0769d356-3e6d-4031-8946-11f6f8599a37-cat-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\0769d356-3e6d-4031-8946-11f6f8599a37-cat-4.jpg"
+    },
+    {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\34590731-6167-4122-906b-c8aac0c5394d-open-book.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\34590731-6167-4122-906b-c8aac0c5394d-open-book.png"
     },
@@ -249,20 +253,8 @@
       "PackagePath": "staticwebassets\\admin\\assets\\images\\77c47c0a-672c-44d8-8979-b36ab5b8e58d-slider2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\77de4d9b-72fb-43bc-92e5-236c4b1efa2c-cat-1.jpg",
-      "PackagePath": "staticwebassets\\admin\\assets\\images\\77de4d9b-72fb-43bc-92e5-236c4b1efa2c-cat-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\7f0adbfc-ade9-4a71-af05-f84966cfb544-about.jpg",
-      "PackagePath": "staticwebassets\\admin\\assets\\images\\7f0adbfc-ade9-4a71-af05-f84966cfb544-about.jpg"
-    },
-    {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\7f8a6594-4a7f-4614-84ac-9108b3658623-testimonial-3.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\7f8a6594-4a7f-4614-84ac-9108b3658623-testimonial-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\9964eef8-77cd-4b6b-9c4c-0636b95310ae-cat-4.jpg",
-      "PackagePath": "staticwebassets\\admin\\assets\\images\\9964eef8-77cd-4b6b-9c4c-0636b95310ae-cat-4.jpg"
     },
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\Thumbs.db",
@@ -379,6 +371,18 @@
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\browser\\safari.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\safari.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\c59443d3-2166-4eb1-afd5-a322d3ec9387-cat-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\c59443d3-2166-4eb1-afd5-a322d3ec9387-cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\ce4c8bf1-c37a-48da-9599-bd5462b20204-cat-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ce4c8bf1-c37a-48da-9599-bd5462b20204-cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\d209f195-60c1-49a3-8c5e-237effe16375-cat-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\d209f195-60c1-49a3-8c5e-237effe16375-cat-3.jpg"
     },
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\d9c819ee-f885-4960-9161-b69de3c8ffef-globes.png",

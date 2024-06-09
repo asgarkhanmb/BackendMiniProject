@@ -2,6 +2,7 @@
 using BackendMiniProject.Helpers.Extensions;
 using BackendMiniProject.Models;
 using BackendMiniProject.Services.Interfaces;
+using BackendMiniProject.ViewModels.Abouts;
 using BackendMiniProject.ViewModels.Categories;
 using BackendMiniProject.ViewModels.Informations;
 using Microsoft.AspNetCore.Mvc;
@@ -92,6 +93,81 @@ namespace BackendMiniProject.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
 
 
+        }
+        [HttpGet]
+        public async Task<IActionResult> Detail(int? id)
+        {
+            Category category = await _categoryService.GetByIdWithCoursesAsync((int)id);
+            return View(category);
+        }
+        [HttpGet]
+        public async Task<IActionResult> Edit(int? id)
+        {
+            if (id == null)
+            {
+                return BadRequest();
+            }
+
+            var result = await _context.Categories.FindAsync(id);
+            if (result == null)
+            {
+                return NotFound();
+            }
+
+            var viewModel = new CategoryEditVM
+            {
+              Name = result.Name,
+              Images = result.Name
+
+            };
+
+            return View(viewModel);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int? id, CategoryEditVM request)
+        {
+            if (id == null)
+            {
+                return BadRequest();
+            }
+
+            var category = await _context.Categories.FindAsync(id);
+            if (category == null)
+            {
+                return NotFound();
+            }
+
+            if (request.NewImages != null)
+            {
+
+                if (!request.NewImages.CheckFileType("image/"))
+                {
+                    ModelState.AddModelError("NewImage", "Accept only image format");
+                    return View(request);
+                }
+                if (!request.NewImages.CheckFileSize(200))
+                {
+                    ModelState.AddModelError("NewImage", "Image size must be max 200 KB");
+                    return View(request);
+                }
+
+                string oldPath = _env.GenerateFilePath("admin/assets/images/", category.Image);
+                oldPath.DeleteFileFromLocal();
+                string fileName = Guid.NewGuid().ToString() + "-" + request.NewImages.FileName;
+                string newPath = _env.GenerateFilePath("admin/assets/images/", fileName);
+                await request.NewImages.SaveFileToLocalAsync(newPath);
+                category.Image = fileName;
+            }
+
+
+               category.Name = request.Name;
+
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
         }
     }
 
