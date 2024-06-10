@@ -241,6 +241,10 @@
       "PackagePath": "staticwebassets\\admin\\assets\\images\\0769d356-3e6d-4031-8946-11f6f8599a37-cat-4.jpg"
     },
     {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\1b3ca16d-4aa0-45ed-a886-5d257eea0950-course-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\1b3ca16d-4aa0-45ed-a886-5d257eea0950-course-1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\34590731-6167-4122-906b-c8aac0c5394d-open-book.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\34590731-6167-4122-906b-c8aac0c5394d-open-book.png"
     },
@@ -249,12 +253,28 @@
       "PackagePath": "staticwebassets\\admin\\assets\\images\\5862ee24-dc0a-46a5-9a9e-c360f9b49cac-graduations.png"
     },
     {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\6524f809-3b96-4a0d-9349-48d6306f0331-course-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\6524f809-3b96-4a0d-9349-48d6306f0331-course-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\6fe8583e-9d3e-4d38-93b0-5b8006d09c92-course-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\6fe8583e-9d3e-4d38-93b0-5b8006d09c92-course-1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\77c47c0a-672c-44d8-8979-b36ab5b8e58d-slider2.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\77c47c0a-672c-44d8-8979-b36ab5b8e58d-slider2.jpg"
     },
     {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\78b6d8f0-26db-4a5b-9390-b7f22df2ccfe-course-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\78b6d8f0-26db-4a5b-9390-b7f22df2ccfe-course-1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\7f8a6594-4a7f-4614-84ac-9108b3658623-testimonial-3.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\7f8a6594-4a7f-4614-84ac-9108b3658623-testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\867e366d-4ba0-4220-b75b-f6218cc732fe-course-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\867e366d-4ba0-4220-b75b-f6218cc732fe-course-1.jpg"
     },
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\Thumbs.db",
@@ -381,6 +401,10 @@
       "PackagePath": "staticwebassets\\admin\\assets\\images\\ce4c8bf1-c37a-48da-9599-bd5462b20204-cat-1.jpg"
     },
     {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\ce5f44b6-220e-4260-a526-45380f208c6c-course-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ce5f44b6-220e-4260-a526-45380f208c6c-course-1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\d209f195-60c1-49a3-8c5e-237effe16375-cat-3.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\d209f195-60c1-49a3-8c5e-237effe16375-cat-3.jpg"
     },
@@ -395,6 +419,10 @@
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\details_open.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\details_open.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\e8006369-4368-402e-bb85-83de2cb3e6e1-course-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\e8006369-4368-402e-bb85-83de2cb3e6e1-course-1.jpg"
     },
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\faq_man.png",
@@ -1255,6 +1283,10 @@
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\img\\24709a35-7bdd-4345-b5e9-2ca0bdb1a8dd-course-1.jpg",
+      "PackagePath": "staticwebassets\\img\\24709a35-7bdd-4345-b5e9-2ca0bdb1a8dd-course-1.jpg"
     },
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\js\\site.js",
