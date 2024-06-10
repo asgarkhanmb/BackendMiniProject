@@ -1,0 +1,77 @@
+﻿@model  RegisterVM
+
+@{
+    Layout = null;
+    ViewData["Title"] = "SignUp";
+}
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <title>Sign Up</title>
+</head>
+<body>
+    <div class="wrapper">
+        <form method="post" asp-action="SignUp" >
+            <h1>Sign Up</h1>
+            <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+            <div class="input-box">
+                <div class="input-field">
+                    <input asp-for="FullName" placeholder="Full Name" />
+                    <span class="text-danger" asp-validation-for="FullName"></span>
+                          
+                    <i class='bx bxs-user'></i>
+                </div>
+                <div class="input-field">
+                    <input asp-for="Email" type="text" placeholder="Email" />
+                    <span class="text-danger" asp-validation-for="Email"></span>
+
+                    <i class='bx bxs-user'></i>
+                </div>
+            </div>
+            <div class="input-box">
+                <div class="input-field">
+                    <input asp-for="UserName" placeholder="Username" />
+                    <span class="text-danger" asp-validation-for="UserName"></span>
+
+                    <i class='bx bxs-envelope'></i>
+                </div>
+                <div class="input-field">
+                    <input asp-for="Password" placeholder="Password" />
+                    <span class="text-danger" asp-validation-for="Password"></span>
+
+                    <i class='bx bxs-lock-alt'></i>
+                </div>
+           
+            </div>
+            <div class="input-box">
+                <div class="input-field">
+                    <input asp-for="ConfirmPassword" placeholder="Confirm Password" />
+                    <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
+
+                    <i class='bx bxs-lock-alt'></i>
+                </div>
+             
+            </div>
+            <div style="margin-top:30px;">
+                <button type="submit" class="btn mt-5">Sign Up</button>
+            </div>
+            
+        </form>
+
+    </div>
+</body>
+</html>
+
+
+
+@section CSS {
+    <link rel="stylesheet" href="~/css/style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+}
+
+
+
+

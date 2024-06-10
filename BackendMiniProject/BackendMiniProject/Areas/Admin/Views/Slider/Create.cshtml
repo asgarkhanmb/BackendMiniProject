@@ -10,9 +10,9 @@
     <form method="post" asp-action="Create" enctype="multipart/form-data">
         <div class="forms-sample">
             <label for="exampleInputUsername1">Slider</label>
-            <input class="form-control" asp-for="Image" maxlength="800" placeholder="Slider ..."></input>
-            <input asp-for=Title class="form-control" maxlength="800" placeholder="Title ..."></input>
-            <input asp-for=Description class="form-control" maxlength="800" placeholder="Description ..."></input>
+            <input class="form-control mt-3" asp-for="Image" maxlength="800" placeholder="Slider ..."></input>
+            <input asp-for=Title class="form-control mt-3" maxlength="800" placeholder="Title ..."></input>
+            <input asp-for=Description class="form-control mt-3" maxlength="800" placeholder="Description ..."></input>
             <span asp-validation-for="Image" class="text-danger"></span>
         </div>
         <button type="submit" class="btn btn-primary mr-2 mt-3">Submit</button>

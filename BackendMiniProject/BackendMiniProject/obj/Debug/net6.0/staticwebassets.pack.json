@@ -1285,6 +1285,14 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\img\\1.webp",
+      "PackagePath": "staticwebassets\\img\\1.webp"
+    },
+    {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\img\\24709a35-7bdd-4345-b5e9-2ca0bdb1a8dd-course-1.jpg",
       "PackagePath": "staticwebassets\\img\\24709a35-7bdd-4345-b5e9-2ca0bdb1a8dd-course-1.jpg"
     },
