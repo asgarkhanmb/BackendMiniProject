@@ -28,7 +28,7 @@
 
                     @foreach (var item in Model)
                     {
-                        <tr style="background-color:#bbb">
+                        <tr>
 
                             <td>
 
@@ -45,9 +45,7 @@
                                 <form class="d-inline" asp-action="Delete" method="post" asp-route-id="@item.Id">
                                     <button type="submit" class="btn btn-danger text-white btn-sm"><i class="ti-trash"></i></button>
                                 </form>
-                                <a asp-action="Addsocial" asp-route-id="@item.Id" class="btn btn-success text-white  mt-2">
-                                    Add Social
-                                </a>
+                             
 
                             </td>
                         </tr>

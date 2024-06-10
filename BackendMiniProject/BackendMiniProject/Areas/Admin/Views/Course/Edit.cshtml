@@ -12,12 +12,6 @@
         <ul class="preview-thumbnail nav nav-tabs mx-5">
             @foreach (var item in Model.Images)
             {
-                <form class="d-inline" method="post" asp-action="isMain" asp-route-id="@item.Id">
-                    <button class="btn btn-warning text-white btn-sm" style="@(item.IsMain?"display:none; ":"")"><i class="ti-marker"></i></button>
-                </form>
-                <form class="d-inline" method="post" asp-action="Imagedelete" asp-route-id="@item.Id">
-                    <button type="submit" class="btn btn-danger text-white btn-sm"><i class="ti-trash"></i></button>
-                </form>
                 <li class="active"><a data-target="#pic-1" data-toggle="tab"><img src="~/admin/assets/images/@item.Image" style="@(item.IsMain?"border: 2px solid #acaafd ":"")" /></a></li>
             }
         </ul>

@@ -1,0 +1,35 @@
+﻿@model InstructorEditVM
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<main style="margin-top: 70px; margin-left:60px;">
+
+    <div class="container mt-5">
+        <form method="post" asp-action="Edit" enctype="multipart/form-data">
+            <div class="form-group">
+
+                <label class="mt-5" for="category">Name</label>
+                <span asp-validation-for="FullName" class="text-danger"></span>
+                <input asp-for="FullName" class="form-control form-bg-light" maxlength="100" placeholder="FullName...">
+
+                <label class="mt-5" for="category">Email</label>
+                <span asp-validation-for="Email" class="text-danger"></span>
+                <input asp-for="Email" class="form-control form-bg-light" maxlength="100" placeholder="Email...">
+                <label class="mt-5" for="category">Designation</label>
+                <span asp-validation-for="Designation" class="text-danger"></span>
+                <input asp-for="Designation" class="form-control form-bg-light" maxlength="100" placeholder="Designation...">
+
+
+                <label for="category">Image</label>
+                <span asp-validation-for="NewImages" class="text-danger"></span>
+                <input class="form-control form-bg-light" type="file" asp-for="NewImages">
+
+            </div>
+            <button type="submit" class="btn btn-primary mr-2">Submit</button>
+            <a asp-action="Index" class="btn btn-light mr-2">Cancel</a>
+        </form>
+    </div>
+</main>
+

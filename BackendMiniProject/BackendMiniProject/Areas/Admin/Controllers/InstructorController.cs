@@ -113,6 +113,126 @@ namespace BackendMiniProject.Areas.Admin.Controllers
             return View(instructor);
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Edit(int? id)
+        {
+            if (id is null) return BadRequest();
+            var instructor = await _instructorService.GetByIdAsync((int)id);
+            if (instructor is null) return NotFound();
 
+            return View(new InstructorEditVM { FullName = instructor.FullName, Images = instructor.Image, Email = instructor.Email, Designation = instructor.Designation });
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int? id, InstructorEditVM request)
+        {
+            var a = await _instructorService.GetByIdWithSocialAsync((int)id);
+            request.Images = a.Image;
+
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+            if (request.NewImages is not null)
+            {
+
+                if (id is null) return BadRequest();
+
+                if (await _instructorService.ExistExceptByIdAsync((int)id, request.Email))
+                {
+                    ModelState.AddModelError("Name", "This category already exist");
+                    return View();
+                }
+
+
+                var instructor = await _instructorService.GetByIdAsync((int)id);
+
+                if (instructor is null) return NotFound();
+
+
+
+
+
+                if (request.NewImages is not null)
+                {
+
+
+                    if (!request.NewImages.CheckFileType("image/"))
+                    {
+                        ModelState.AddModelError("NewImages", "Input can accept only image format");
+                        return View(request);
+
+                    }
+                    if (!request.NewImages.CheckFileSize(500))
+                    {
+                        ModelState.AddModelError("NewImages", "Image size must be max 500 KB ");
+                        return View(request);
+                    }
+                    string oldPath = _env.GenerateFilePath("img", request.NewImages.Name);
+                    oldPath.DeleteFileFromLocal();
+                    string newfileName = Guid.NewGuid().ToString() + "-" + request.NewImages.FileName;
+                    string newPath = _env.GenerateFilePath("img", newfileName);
+
+                    await request.NewImages.SaveFileToLocalAsync(newPath);
+
+
+
+
+
+                    instructor.Image = newfileName;
+
+
+
+                }
+
+
+
+
+
+                if (request.FullName is not null)
+                {
+                    instructor.FullName = request.FullName;
+                }
+                if (request.Email is not null)
+                {
+                    instructor.Email = request.Email;
+                }
+                if (request.FullName is not null)
+                {
+                    instructor.Designation = request.Designation;
+                }
+
+
+
+                await _instructorService.EditAsync();
+
+                return RedirectToAction(nameof(Index));
+            }
+            else
+            {
+
+
+                var instructor = await _instructorService.GetByIdAsync((int)id);
+
+                if (instructor is null) return NotFound();
+
+
+                if (request.FullName is not null)
+                {
+                    instructor.FullName = request.FullName;
+                }
+                if (request.Email is not null)
+                {
+                    instructor.Email = request.Email;
+                }
+                if (request.FullName is not null)
+                {
+                    instructor.Designation = request.Designation;
+                }
+                await _instructorService.EditAsync();
+                return RedirectToAction(nameof(Index));
+            }
+        }
     }
 }
