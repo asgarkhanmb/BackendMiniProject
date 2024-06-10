@@ -5,12 +5,14 @@ using BackendMiniProject.Services;
 using BackendMiniProject.Services.Interfaces;
 using BackendMiniProject.ViewModels.Abouts;
 using BackendMiniProject.ViewModels.Informations;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace BackendMiniProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles ="SuperAdmin,Admin")]
     public class AboutController : Controller
     {
         private readonly AppDbContext _context;

@@ -2,12 +2,14 @@
 using BackendMiniProject.Models;
 using BackendMiniProject.Services.Interfaces;
 using BackendMiniProject.ViewModels.Courses;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BackendMiniProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "SuperAdmin,Admin")]
     public class CourseController : Controller
     {
 

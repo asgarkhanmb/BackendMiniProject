@@ -4,6 +4,7 @@ using BackendMiniProject.Models;
 using BackendMiniProject.Services;
 using BackendMiniProject.Services.Interfaces;
 using BackendMiniProject.ViewModels.Sliders;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,6 +12,7 @@ namespace BackendMiniProject.Areas.Admin.Controllers
 {
 
     [Area("Admin")]
+    [Authorize(Roles = "SuperAdmin,Admin")]
     public class SliderController : Controller
     {
         private readonly AppDbContext _context;

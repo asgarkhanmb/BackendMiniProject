@@ -1,0 +1,39 @@
+﻿@model List<UserRoleVM>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<main id="main" class="main">
+    <div class="container mt-5">
+        <h2 class="text-center">Users</h2>
+        <div class="create-operations ">
+            <a asp-controller="user" asp-action="AddRole" class="btn btn-success text-white  mt-2">Add Role</a>
+        </div>
+        <table class="table table-white">
+            <thead>
+                <tr>
+                    <th scope="col" style="background-color:white;color:black">Fullname</th>
+                    <th scope="col" style="background-color:white;color:black">Username</th>
+                    <th scope="col" style="background-color:white;color:black">Email</th>
+                    <th scope="col" style="background-color:white;color:black">Roles</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr class="category-data">
+
+                        <td>@item.Fullname</td>
+                        <td>@item.Username</td>
+                        <td>@item.Email</td>
+                        <td>@item.Roles</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</main>
+

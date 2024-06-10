@@ -1,0 +1,57 @@
+﻿@model LoginVM
+@{
+    Layout = null;
+    ViewData["Title"] = "SignIn";
+}
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <title>Sign In</title>
+</head>
+<body>
+    <div class="wrapper">
+        <form method="post" asp-action="SignIn">
+            <h1>Sign In</h1>
+            <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+            <div class="input-box">
+                <div class="input-field">
+                    <input asp-for="EmailOrUsername" placeholder="Email Or Username" />
+                    <span class="text-danger" asp-validation-for="EmailOrUsername"></span>
+
+                    <i class='bx bxs-envelope'></i>
+                </div>
+                <div class="input-field">
+                    <input asp-for="Password" placeholder="Password" />
+                    <span class="text-danger" asp-validation-for="Password"></span>
+
+                    <i class='bx bxs-lock-alt'></i>
+                </div>
+
+            </div>
+            <div style="margin-top:30px;">
+                <button type="submit" class="btn mt-5">Sign In</button>
+            </div>
+            <div style="margin-top:20px;">
+                <a asp-action="SignUp" class="btn btn-outline-secondary mx-3">Go to Sign Up</a>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary mx-3">Back Home</a>
+            </div>
+           
+        </form>
+
+    </div>
+</body>
+</html>
+
+
+
+@section CSS {
+    <link rel="stylesheet" href="~/css/style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+}
+
+
+

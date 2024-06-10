@@ -26,11 +26,19 @@
                             <form method="post" asp-controller="Account" asp-action="Logout">
                                 <button type="submit" class="px-1  btn btn-danger" style="margin-left:40px;">Logout</button>
                             </form>
+
+                            @if(User.IsInRole("SuperAdmin")|| User.IsInRole("Admin"))
+                            {
+                                <form method="post" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">
+                                <button type="submit"   class="btn btn-success" style="margin-left:20px;">Go to Admin</button>
+                                </form>
+                            
+                            }
                         }
                         else
                         {
                             <a asp-controller="Account" asp-action="SignUp" class="dropdown-item">Sign Up</a>
-                            <a href="testimonial.html" class="dropdown-item">Sign In</a>
+                            <a asp-controller="Account" asp-action="SignIn" class="dropdown-item">Sign In</a>
                         }
                        
                     
