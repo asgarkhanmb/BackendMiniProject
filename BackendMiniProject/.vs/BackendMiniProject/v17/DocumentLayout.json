@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\instructor\\addsocial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\instructor\\addsocial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\instructor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\instructor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\social\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\social\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\viewmodels\\socials\\socialcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\viewmodels\\socials\\socialcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\viewmodels\\socials\\socialeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\viewmodels\\socials\\socialeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\social\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\social\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\social\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\social\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\controllers\\socialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\controllers\\socialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,32 +62,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T23:38:29.539Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Social\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Social\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Social\\Index.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Social\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T23:35:03.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SocialEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Socials\\SocialEditVM.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\Socials\\SocialEditVM.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Socials\\SocialEditVM.cs",
+              "RelativeToolTip": "BackendMiniProject\\ViewModels\\Socials\\SocialEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:28:38.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Social\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Social\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Social\\Edit.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Social\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T23:26:47.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SocialCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Socials\\SocialCreateVM.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\Socials\\SocialCreateVM.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Socials\\SocialCreateVM.cs",
+              "RelativeToolTip": "BackendMiniProject\\ViewModels\\Socials\\SocialCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:03:01.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Social\\Create.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Social\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Social\\Create.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Social\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T23:20:30.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddSocial.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\AddSocial.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\AddSocial.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\AddSocial.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\AddSocial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T23:03:59.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Edit.cshtml",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Edit.cshtml",
               "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Edit.cshtml",
               "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-10T22:55:46.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "SocialController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\SocialController.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\SocialController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\SocialController.cs",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Controllers\\SocialController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAmwE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:19:15.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "InstructorController.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\InstructorController.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\InstructorController.cs",
               "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\InstructorController.cs",
               "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Controllers\\InstructorController.cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAA4wHUAAAAJAAAA",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwFoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T22:54:02.834Z",
+              "WhenOpened": "2024-06-10T23:01:43.781Z",
               "EditorCaption": ""
             },
             {
@@ -76,20 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAsAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T22:50:27.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Edit.cshtml",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Edit.cshtml",
@@ -97,12 +217,11 @@
               "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Edit.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T22:47:03.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T22:47:03.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "CourseController.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\CourseController.cs",
@@ -110,12 +229,11 @@
               "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Controllers\\CourseController.cs",
               "ViewState": "AQIAAHUAAAAAAAAAAAAowHsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T22:46:54.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T22:46:54.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "InformationController.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\InformationController.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\InformationController.cs",
@@ -123,8 +241,7 @@
               "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Controllers\\InformationController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T20:31:03.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T20:31:03.73Z"
             }
           ]
         }

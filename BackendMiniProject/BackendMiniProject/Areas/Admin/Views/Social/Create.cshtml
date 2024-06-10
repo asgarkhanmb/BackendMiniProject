@@ -1,0 +1,18 @@
+﻿@model Social
+@{
+    ViewData["Title"] = "Create";
+}
+
+<main style="margin-top: 70px; margin-left:60px;">
+    <div class="container mt-5">
+        <form method="post" asp-action="Create" enctype="multipart/form-data">
+            <div class="form-group">
+                <label class="mt-5" for="category">Name</label>
+                <span asp-validation-for="Name" class="text-danger"></span>
+                <input asp-for="Name" class="form-control form-bg-light" maxlength="100" placeholder="SocialName...">
+            </div>
+            <button type="submit" class="btn btn-primary mr-2">Submit</button>
+            <a asp-action="Index" class="btn btn-light mr-2">Cancel</a>
+        </form>
+    </div>
+</main>

@@ -3,6 +3,7 @@ using BackendMiniProject.Helpers.Extensions;
 using BackendMiniProject.Models;
 using BackendMiniProject.Services.Interfaces;
 using BackendMiniProject.ViewModels.Instructors;
+using BackendMiniProject.ViewModels.Socials;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -233,6 +234,26 @@ namespace BackendMiniProject.Areas.Admin.Controllers
                 await _instructorService.EditAsync();
                 return RedirectToAction(nameof(Index));
             }
+
+        }
+        [HttpGet]
+        public async Task<IActionResult> AddSocial()
+        {
+            ViewBag.social = await _socialService.GetAllSelectedAsync();
+            return View();
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> AddSocial(int? id, SocialCreateVM request)
+        {
+            ViewBag.social = await _socialService.GetAllSelectedAsync();
+
+
+
+            var social = new InstructorSocial { InstructorId = (int)id, SocialId = request.SocialId, SocialLink = request.URl };
+            await _context.InstructorSocials.AddAsync(social);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
     }
 }

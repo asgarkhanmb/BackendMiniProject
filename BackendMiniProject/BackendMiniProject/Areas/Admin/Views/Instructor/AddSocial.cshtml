@@ -1,0 +1,22 @@
+﻿@model SocialCreateVM
+@{
+    ViewData["Title"] = "AddSocial";
+}
+
+
+<main style="margin-top: 70px; margin-left:60px;">
+    <div class="container mt-5">
+        <h1>Add Social</h1>
+        <form method="post" asp-action="AddSocial" enctype="multipart/form-data">
+        <label for="category">Socials</label>
+        <select asp-for="SocialId" asp-items="@ViewBag.social" class="form-control"></select>
+    <label class="mt-5" for="social">SocialUrl</label>
+    <span asp-validation-for="URl" class="text-danger"></span>
+    <input asp-for="URl" class="form-control form-bg-light">
+    <button type="submit" class="btn btn-primary mr-2 mt-3">Submit</button>
+    <a asp-action="Index" class="btn btn-light mr-2 mt-3">Cancel</a>
+     </form>
+    </div>
+</main>
+
+
