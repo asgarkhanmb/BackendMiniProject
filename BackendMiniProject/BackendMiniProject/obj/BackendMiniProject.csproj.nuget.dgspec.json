@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject.csproj": {}
+    "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject.csproj": {
+    "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject.csproj",
+        "projectUniqueName": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject.csproj",
         "projectName": "BackendMiniProject",
-        "projectPath": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject.csproj",
+        "projectPath": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject.csproj",
         "packagesPath": "C:\\Users\\Əsgərxan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\obj\\",
+        "outputPath": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

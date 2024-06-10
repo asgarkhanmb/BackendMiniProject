@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f2i8PcBHR70SFK3NPD5bIiupuZXu/Au9dAkLO9RZ7QJcRgkPFt/LdA9B3Nb/viY56gr0jVd0fDzmbx4dAQpttA==",
+  "dgSpecHash": "qE2Oohs3Bce1+Zq9hd/ia0FidFtSLpV48UoMpdRiUJpp4mQTWN7iog7MVBmE+LV5vMsLV9yUH8Eai57HmWMHtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject.csproj",
+  "projectFilePath": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Əsgərxan\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Əsgərxan\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

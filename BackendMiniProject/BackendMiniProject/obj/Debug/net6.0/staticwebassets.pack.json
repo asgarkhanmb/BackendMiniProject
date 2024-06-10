@@ -1,1531 +1,1531 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BackendMiniProject.bundle.scp.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BackendMiniProject.bundle.scp.css",
       "PackagePath": "staticwebassets\\BackendMiniProject.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\animate.css\\css\\animate.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\animate.css\\css\\animate.css",
       "PackagePath": "staticwebassets\\admin\\assets\\css\\animate.css\\css\\animate.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\admin\\assets\\css\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\chartist\\chartist.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\chartist\\chartist.css",
       "PackagePath": "staticwebassets\\admin\\assets\\css\\chartist\\chartist.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\admin\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\ionicons.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\ionicons.css",
       "PackagePath": "staticwebassets\\admin\\assets\\css\\ionicons.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\jquery.mCustomScrollbar.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\jquery.mCustomScrollbar.css",
       "PackagePath": "staticwebassets\\admin\\assets\\css\\jquery.mCustomScrollbar.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\morris.js\\css\\morris.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\morris.js\\css\\morris.css",
       "PackagePath": "staticwebassets\\admin\\assets\\css\\morris.js\\css\\morris.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\style.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\HELP-US-OUT.txt",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\HELP-US-OUT.txt",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\HELP-US-OUT.txt"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\animated.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\animated.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\animated.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\bordered-pulled.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\bordered-pulled.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\bordered-pulled.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\core.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\core.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\core.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\fixed-width.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\fixed-width.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\fixed-width.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\font-awesome.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\font-awesome.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\icons.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\icons.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\icons.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\larger.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\larger.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\larger.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\list.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\list.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\list.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\mixins.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\mixins.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\mixins.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\path.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\path.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\path.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\rotated-flipped.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\rotated-flipped.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\rotated-flipped.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\screen-reader.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\screen-reader.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\screen-reader.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\stacked.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\stacked.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\stacked.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\variables.less",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\less\\variables.less",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\less\\variables.less"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_animated.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_animated.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_animated.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_bordered-pulled.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_core.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_core.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_fixed-width.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_icons.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_larger.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_larger.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_list.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_list.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_path.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_path.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_rotated-flipped.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_screen-reader.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_stacked.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_stacked.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_variables.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css.map",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\font-awesome\\scss\\font-awesome.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\icofont\\css\\icofont.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\icofont\\css\\icofont.css",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\css\\icofont.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.eot",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.eot",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.eot"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.svg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.svg",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.svg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.ttf",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.ttf",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.ttf"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.woff",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\icofont\\fonts\\icofont.woff",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\icofont\\fonts\\icofont.woff"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.eot",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.eot"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.svg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.svg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.ttf",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.ttf"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.woff",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\themify-icons\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\fonts\\themify.woff"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\themify-icons\\themify-icons.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\icon\\themify-icons\\themify-icons.css",
       "PackagePath": "staticwebassets\\admin\\assets\\icon\\themify-icons\\themify-icons.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\00d94286-2fc1-4bfc-9abd-5e17f68897b9-home.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\00d94286-2fc1-4bfc-9abd-5e17f68897b9-home.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\00d94286-2fc1-4bfc-9abd-5e17f68897b9-home.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\0769d356-3e6d-4031-8946-11f6f8599a37-cat-4.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\0769d356-3e6d-4031-8946-11f6f8599a37-cat-4.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\0769d356-3e6d-4031-8946-11f6f8599a37-cat-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\1b3ca16d-4aa0-45ed-a886-5d257eea0950-course-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\1b3ca16d-4aa0-45ed-a886-5d257eea0950-course-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\1b3ca16d-4aa0-45ed-a886-5d257eea0950-course-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\34590731-6167-4122-906b-c8aac0c5394d-open-book.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\34590731-6167-4122-906b-c8aac0c5394d-open-book.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\34590731-6167-4122-906b-c8aac0c5394d-open-book.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\5862ee24-dc0a-46a5-9a9e-c360f9b49cac-graduations.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\5862ee24-dc0a-46a5-9a9e-c360f9b49cac-graduations.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\5862ee24-dc0a-46a5-9a9e-c360f9b49cac-graduations.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\6524f809-3b96-4a0d-9349-48d6306f0331-course-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\6524f809-3b96-4a0d-9349-48d6306f0331-course-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\6524f809-3b96-4a0d-9349-48d6306f0331-course-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\6fe8583e-9d3e-4d38-93b0-5b8006d09c92-course-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\6fe8583e-9d3e-4d38-93b0-5b8006d09c92-course-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\6fe8583e-9d3e-4d38-93b0-5b8006d09c92-course-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\77c47c0a-672c-44d8-8979-b36ab5b8e58d-slider2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\77c47c0a-672c-44d8-8979-b36ab5b8e58d-slider2.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\77c47c0a-672c-44d8-8979-b36ab5b8e58d-slider2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\78b6d8f0-26db-4a5b-9390-b7f22df2ccfe-course-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\78b6d8f0-26db-4a5b-9390-b7f22df2ccfe-course-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\78b6d8f0-26db-4a5b-9390-b7f22df2ccfe-course-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\7f8a6594-4a7f-4614-84ac-9108b3658623-testimonial-3.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\7f8a6594-4a7f-4614-84ac-9108b3658623-testimonial-3.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\7f8a6594-4a7f-4614-84ac-9108b3658623-testimonial-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\867e366d-4ba0-4220-b75b-f6218cc732fe-course-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\867e366d-4ba0-4220-b75b-f6218cc732fe-course-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\867e366d-4ba0-4220-b75b-f6218cc732fe-course-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\Thumbs.db",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\Thumbs.db",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\auth\\Logo-small-bottom.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\auth\\Logo-small-bottom.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\Logo-small-bottom.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\auth\\Thumbs.db",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\auth\\Thumbs.db",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\auth\\logo-dark.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\auth\\logo-dark.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\logo-dark.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\auth\\logo.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\auth\\logo.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-2.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-3.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-3.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-4.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-4.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-5.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-5.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-blank.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\avatar-blank.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\avatar-blank.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\b18b0e81-5d2e-4f2d-a11b-207a9bbdcf73-slider1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\b18b0e81-5d2e-4f2d-a11b-207a9bbdcf73-slider1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\b18b0e81-5d2e-4f2d-a11b-207a9bbdcf73-slider1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\bc95b032-4805-480b-b3a3-d4bd82640666-about.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\bc95b032-4805-480b-b3a3-d4bd82640666-about.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\bc95b032-4805-480b-b3a3-d4bd82640666-about.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-130.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-130.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-130.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-r-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-r-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-r-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-r-2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-r-2.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-r-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-r-3.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-r-3.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-r-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-single-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-single-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-single-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-single.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-single.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-single.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-small-bg-1.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\blog-small-bg-1.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\blog-small-bg-1.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\st_gallery1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\st_gallery1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\st_gallery1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\st_gallery2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\st_gallery2.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\st_gallery2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\st_gallery3.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\blog\\st_gallery3.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\blog\\st_gallery3.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\breadcrumb-bg.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\breadcrumb-bg.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\breadcrumb-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\browser\\chrome.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\browser\\chrome.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\chrome.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\browser\\firefox.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\browser\\firefox.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\firefox.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\browser\\ie.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\browser\\ie.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\ie.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\browser\\opera.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\browser\\opera.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\opera.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\browser\\safari.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\browser\\safari.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\safari.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\c59443d3-2166-4eb1-afd5-a322d3ec9387-cat-2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\c59443d3-2166-4eb1-afd5-a322d3ec9387-cat-2.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\c59443d3-2166-4eb1-afd5-a322d3ec9387-cat-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\ce4c8bf1-c37a-48da-9599-bd5462b20204-cat-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\ce4c8bf1-c37a-48da-9599-bd5462b20204-cat-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\ce4c8bf1-c37a-48da-9599-bd5462b20204-cat-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\ce5f44b6-220e-4260-a526-45380f208c6c-course-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\ce5f44b6-220e-4260-a526-45380f208c6c-course-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\ce5f44b6-220e-4260-a526-45380f208c6c-course-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\d209f195-60c1-49a3-8c5e-237effe16375-cat-3.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\d209f195-60c1-49a3-8c5e-237effe16375-cat-3.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\d209f195-60c1-49a3-8c5e-237effe16375-cat-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\d9c819ee-f885-4960-9161-b69de3c8ffef-globes.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\d9c819ee-f885-4960-9161-b69de3c8ffef-globes.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\d9c819ee-f885-4960-9161-b69de3c8ffef-globes.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\details_close.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\details_close.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\details_close.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\details_open.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\details_open.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\details_open.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\e8006369-4368-402e-bb85-83de2cb3e6e1-course-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\e8006369-4368-402e-bb85-83de2cb3e6e1-course-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\e8006369-4368-402e-bb85-83de2cb3e6e1-course-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\faq_man.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\faq_man.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faq_man.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\favicon.ico",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\logo-blue.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\logo-blue.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-blue.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\logo-compact.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\logo-compact.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-compact.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\logo.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\logo.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\mCSB_buttons.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\mCSB_buttons.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\mCSB_buttons.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\mega-menu\\01.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\mega-menu\\01.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\01.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\mega-menu\\02.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\mega-menu\\02.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\02.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\mega-menu\\03.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\mega-menu\\03.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\mega-menu\\03.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\select-arrow.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\select-arrow.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\select-arrow.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\tooltip\\Euclid.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\tooltip\\Euclid.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\tooltip\\Euclid.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\tooltip\\shape1.svg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\tooltip\\shape1.svg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\tooltip\\shape1.svg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\tooltip\\tooltip1.svg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\tooltip\\tooltip1.svg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\tooltip\\tooltip1.svg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\user-bg.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\user-bg.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\user-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\user.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\user.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\user.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\AUSTRALIA.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\AUSTRALIA.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\BRAZIL.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\BRAZIL.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\BRAZIL.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\DIGITALPEN.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\DIGITALPEN.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\DIGITALPEN.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\GERMANY.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\GERMANY.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\GERMANY.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\IPAD.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\IPAD.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\IPAD.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\PHONE1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\PHONE1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\PHONE2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\PHONE2.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\PHONE3.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\PHONE3.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE3.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\PHONE4.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\PHONE4.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\PHONE4.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\TABLET.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\TABLET.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\TABLET.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\UK.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\UK.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\UK.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\USA.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\USA.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\USA.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\prod1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\prod1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\prod2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\prod2.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\prod3.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\prod3.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod3.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\prod4.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\prod4.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\prod4.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\wather2bottom.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\wather2bottom.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2bottom.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\wather2m.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\wather2m.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2m.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\wather2star1.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\wather2star1.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2star1.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\wather2star2.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\wather2star2.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wather2star2.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\watherbottom.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\watherbottom.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\watherbottom.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\wathernature.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\wathernature.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\wathernature.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\watherstar1.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\watherstar1.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\watherstar1.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\watherstar2.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\widget\\watherstar2.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\widget\\watherstar2.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\SmoothScroll.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\SmoothScroll.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\SmoothScroll.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\archive.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\archive.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\archive.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\bootstrap-growl.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\bootstrap-growl.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap-growl.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\chart.js\\Chart.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\chart.js\\Chart.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\chart.js\\Chart.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\common-pages.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\common-pages.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\common-pages.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\jquery-ui\\jquery-ui.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\jquery-ui\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery-ui\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\jquery.mousewheel.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\jquery.mousewheel.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.mousewheel.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\jquery\\jquery.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\modernizr\\css-scrollbars.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\modernizr\\css-scrollbars.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\modernizr\\css-scrollbars.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\modernizr\\modernizr.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\modernizr\\modernizr.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\modernizr\\modernizr.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\morris-custom-chart.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\morris-custom-chart.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\morris-custom-chart.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\morris.js\\morris.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\morris.js\\morris.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\morris.js\\morris.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\pcoded.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\pcoded.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\pcoded.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\popper.js\\popper.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\popper.js\\popper.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\popper.js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\raphael\\raphael.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\raphael\\raphael.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\raphael\\raphael.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\script.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\script.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\script.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\script.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\script.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\vertical-layout.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\js\\vertical-layout.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\vertical-layout.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\accordion\\accordion.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\accordion\\accordion.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\accordion\\accordion.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\accordion\\accordion.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\accordion\\accordion.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\accordion\\accordion.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\css\\amchart.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\css\\amchart.css",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\css\\amchart.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\css\\export.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\css\\export.css",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\css\\export.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\export.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\export.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\export.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\light.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\light.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\light.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\serial.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\amchart\\js\\serial.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\amchart\\js\\serial.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\custom-dashboard.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\dashboard\\custom-dashboard.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\dashboard\\custom-dashboard.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\google-maps\\gmaps.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\google-maps\\gmaps.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\google-maps\\gmaps.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\google-maps\\google-maps.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\google-maps\\google-maps.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\google-maps\\google-maps.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\icon-modal.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\icon-modal.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\icon-modal.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\notification\\notification.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\notification\\notification.css",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\notification\\notification.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\notification\\notification.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\notification\\notification.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\notification\\notification.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\todo\\todo.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\todo\\todo.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\todo\\todo.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\waves\\css\\waves.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\waves\\css\\waves.min.css",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\waves\\css\\waves.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\waves\\js\\waves.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\waves\\js\\waves.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\waves\\js\\waves.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\amcharts.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\amcharts.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\amcharts.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\amcharts.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\amcharts.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\amcharts.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\export.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\export.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\export.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\gauge.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\gauge.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\gauge.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\gauge.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\gauge.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\gauge.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\light.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\light.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\light.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\light.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\light.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\light.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\pie.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\pie.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\pie.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\pie.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\pie.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\pie.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\serial.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\serial.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\serial.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\serial.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\amchart\\serial.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\amchart\\serial.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\excanvas.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\pages\\widget\\excanvas.js",
       "PackagePath": "staticwebassets\\admin\\assets\\pages\\widget\\excanvas.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\about.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\about.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\carousel-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\carousel-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\carousel-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\carousel-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\cat-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\cat-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cat-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\cat-2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\cat-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cat-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\cat-3.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\cat-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cat-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\cat-4.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\cat-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\cat-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\course-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\course-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\course-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\course-2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\course-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\course-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\course-3.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\course-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\course-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\team-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\team-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\team-2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\team-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\team-3.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\team-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\team-4.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\team-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\testimonial-3.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\testimonial-3.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\testimonial-4.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\img\\testimonial-4.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\js\\main.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\animate\\animate.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\animate\\animate.css",
       "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\animate\\animate.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\animate\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\wow\\wow.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\wow\\wow.js",
       "PackagePath": "staticwebassets\\assets\\lib\\wow\\wow.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\wow\\wow.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\lib\\wow\\wow.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\wow\\wow.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\img\\1.webp",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\img\\1.webp",
       "PackagePath": "staticwebassets\\img\\1.webp"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\img\\24709a35-7bdd-4345-b5e9-2ca0bdb1a8dd-course-1.jpg",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\img\\24709a35-7bdd-4345-b5e9-2ca0bdb1a8dd-course-1.jpg",
       "PackagePath": "staticwebassets\\img\\24709a35-7bdd-4345-b5e9-2ca0bdb1a8dd-course-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Yeni qovluq\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
