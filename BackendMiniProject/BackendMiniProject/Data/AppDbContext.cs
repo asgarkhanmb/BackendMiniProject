@@ -16,5 +16,12 @@ namespace BackendMiniProject.Data
         public DbSet<CourseStudent> CourseStudents { get; set; }
         public DbSet<Instructor> Instructors { get; set; }
         public DbSet<InstructorSocial> InstructorSocials { get; set; }
+
+        public DbSet<Social> Socials { get; set; }
+        public DbSet<Student> Students { get; set; }
+        //public DbSet<Setting> Settings { get; set; }
+        //public DbSet<SocialMediaCompany> SocialMediasCompany { get; set; }
+        //public DbSet<Contact> Contacts { get; set; }
+
     }
 }

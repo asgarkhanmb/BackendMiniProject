@@ -16,16 +16,19 @@ namespace BackendMiniProject.Controllers
         private readonly IAboutService _aboutService;
         private readonly ICategoryService _categoryService;
         private readonly ICourseService _courseService;
+        private readonly IInstructorService _instructorService;
 
-        public HomeController(IInformationService informationService, 
+        public HomeController(IInformationService informationService,
                               IAboutService aboutService,
                               ICategoryService categoryService,
-                              ICourseService courseService)
+                              ICourseService courseService,
+                              IInstructorService instructorService)
         {
             _informationService = informationService;
             _aboutService = aboutService;
             _categoryService = categoryService;
             _courseService = courseService;
+            _instructorService = instructorService;
         }
         public async Task<IActionResult> Index()
         {
@@ -43,14 +46,15 @@ namespace BackendMiniProject.Controllers
                 }),
 
 
-                Abouts= res,
+                Abouts = res,
                 CategoryFirst = m.FirstOrDefault(),
                 CategoryLast = m.LastOrDefault(),
                 Categories = m.Skip(1).Take(2),
                 Courses = await _courseService.GetAllAsync(),
+                Instructors = await _instructorService.GetAllAsync()
 
             };
-   
+
             return View(model);
 
         }

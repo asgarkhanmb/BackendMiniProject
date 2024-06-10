@@ -1,0 +1,40 @@
+﻿@model CourseDetailVM
+@{
+	ViewData["Title"] = "Detail";
+}
+
+
+
+<main id="main" class="main">
+	<div class="container" style="margin-left:30px;margin-top:100px;max-width:1160px;overflow-x: hidden;">
+		<div class="row">
+			<div class="col-md-5">
+				<h1>Course Detail:</h1>
+				<h2 class="product-title">Name:<span>@Model.Name</span></h2>
+				<h3 class="product-description">Rating:<span>@Model.Rating</span></h3>
+				<h3 class="product-description">Duration:<span>@Model.Duration</span></h3>
+				<h3 class="category">Category: <span>@Model.Category</span></h3>
+				<h3 class="price">Price: <span>$@Model.Price</span></h3>
+			</div>
+
+			<div class="col-md-7">
+				@foreach (var item in Model.Images)
+				{
+					<img style="witdh:200px;height:200px;" src="~/admin/assets/images/@item.Image" />
+				}
+				<div class="project-info-box">
+					<a asp-action="Index" class="btn btn-danger mt-3">Back</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</main>
+
+
+
+
+
+
+
+

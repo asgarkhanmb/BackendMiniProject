@@ -1,11 +1,31 @@
-﻿@model CourseCreateVM
+﻿@model CourseEditVM
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Edit";
 }
 
 <main style="margin-top: 70px; margin-left:60px;">
+
+    <div class="preview col-md-6">
+
+        <div class="preview-pic tab-content">
+        </div>
+        <ul class="preview-thumbnail nav nav-tabs mx-5">
+            @foreach (var item in Model.Images)
+            {
+                <form class="d-inline" method="post" asp-action="isMain" asp-route-id="@item.Id">
+                    <button class="btn btn-warning text-white btn-sm" style="@(item.IsMain?"display:none; ":"")"><i class="ti-marker"></i></button>
+                </form>
+                <form class="d-inline" method="post" asp-action="Imagedelete" asp-route-id="@item.Id">
+                    <button type="submit" class="btn btn-danger text-white btn-sm"><i class="ti-trash"></i></button>
+                </form>
+                <li class="active"><a data-target="#pic-1" data-toggle="tab"><img src="~/admin/assets/images/@item.Image" style="@(item.IsMain?"border: 2px solid #acaafd ":"")" /></a></li>
+            }
+        </ul>
+
+    </div>
+
     <div class="container mt-5">
-        <form method="post" asp-action="Create" enctype="multipart/form-data">
+        <form method="post" asp-action="Edit" enctype="multipart/form-data">
             <div class="form-group">
                 <label for="category">Name</label>
                 <input asp-for="Name" class="form-control form-bg-light">
@@ -18,7 +38,7 @@
             </div>
             <div class="form-group">
                 <label for="category">Rating</label>
-                <input asp-for="Rating" type="number" class="form-control form-bg-light">
+                <input asp-for="Rating" class="form-control form-bg-light">
                 <span asp-validation-for="Rating" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -26,23 +46,19 @@
                 <input asp-for="Price" type="number" step="any" class="form-control form-bg-light">
                 <span asp-validation-for="Price" class="text-danger"></span>
             </div>
-            <div class="form-group mt-2">
+            <div class="form-group">
                 <label for="category">Category</label>
                 <select asp-for="CategoryId" asp-items="@ViewBag.categories" class="form-control"></select>
             </div>
-            <div class="form-group mt-5">
-                <label for="category">Instructor</label>
-                <select asp-for="InstructorId" asp-items="@ViewBag.instructor" class="form-control"></select>
-            </div>
 
-            <div class="form-group mt-5">
+            <div class="form-group">
                 <label for="category">Images</label>
-                <input class="form-control form-bg-light" asp-for="Images">
-                <span asp-validation-for="Images" class="text-danger"></span>
+
+                <input class="form-control form-bg-light" multiple asp-for="NewImages">
+                <span asp-validation-for="NewImages" class="text-danger"></span>
             </div>
             <button type="submit" class="btn btn-primary mr-2">Submit</button>
             <a asp-action="Index" class="btn btn-light mr-2">Cancel</a>
         </form>
     </div>
 </main>
-

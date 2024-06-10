@@ -1,0 +1,59 @@
+﻿@model Instructor
+@{
+    ViewData["Title"] = "Detail";
+}
+
+
+<main style="margin-top: 70px; margin-left:60px;">
+    <div class="container px-3 my-5 clearfix">
+        <!-- Shopping cart table -->
+        <div class="card">
+            <div class="card-header">
+                <h2>@Model.FullName</h2>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-bordered m-0">
+                        <thead>
+                            <tr>
+                                <!-- Set columns width -->
+                                <th class="text-center py-3 px-4" style="width: 200px;">Image</th>
+                                <th class="text-center py-3 px-4" style="width: 120px;">FullName</th>
+                                <th class="text-center py-3 px-4" style="width: 120px;">Social</th>
+                                <th class="text-center py-3 px-4" style="width: 120px;">Designation</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="p-4">
+                                    <div class="media align-items-center">
+                                        <img style="witdh:100px;height:100px" src="~/admin/assets/images/@Model.Image" class="d-block ui-w-40 ui-bordered mr-4" alt="">
+                                    </div>
+
+
+                                </td>
+                                <td class="align-middle p-4">@Model.FullName</td>
+                                <td>
+                                    @Model.Email
+                                    @foreach (var item in @Model.InstructorSocials)
+                                    {
+                                        @item.Social
+                                    }
+                                </td>
+                                <td>@Model.Designation</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="project-info-box">
+                    <a asp-action="Index" class="btn btn-danger mt-3">Back</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</main>
+
+
+
+

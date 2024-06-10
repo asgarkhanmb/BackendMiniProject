@@ -1,0 +1,61 @@
+﻿@model List<InstructorVM>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<div class="container mt-5">
+    <h2 class="text-center">Instructors</h2>
+    <div class="create-operation">
+        <a asp-action="Create" class="btn btn-success text-white btn-sm"><i class="ti-plus"></i></a>
+    </div>
+    <div class="card mt-3">
+        <div class="header">
+        </div>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+
+                        <th>Image</th>
+                        <th>FullName</th>
+
+                        <th>Operations</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr style="background-color:#bbb">
+
+                            <td>
+
+                                <img style="witdh:80px;height:80px;" src="~/admin/assets/images/@item.Image" />
+
+                            </td>
+
+                            <td>@item.FullName</td>
+                            <td>
+
+
+                                <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-primary text-white btn-sm"><i class="ti-info"></i></a>
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning text-white btn-sm"><i class="ti-pencil"></i></a>
+                                <form class="d-inline" asp-action="Delete" method="post" asp-route-id="@item.Id">
+                                    <button type="submit" class="btn btn-danger text-white btn-sm"><i class="ti-trash"></i></button>
+                                </form>
+                                <a asp-action="Addsocial" asp-route-id="@item.Id" class="btn btn-success text-white  mt-2">
+                                    Add Social
+                                </a>
+
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

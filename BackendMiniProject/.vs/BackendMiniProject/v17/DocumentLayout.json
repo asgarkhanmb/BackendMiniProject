@@ -3,12 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\viewmodels\\courses\\courseeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\viewmodels\\courses\\courseeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\course\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\course\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\instructor\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\instructor\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\instructor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\instructor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\instructor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\services\\socialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\services\\socialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\services\\interfaces\\isocialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\services\\interfaces\\isocialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\services\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\services\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\viewmodels\\instructors\\instructorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\viewmodels\\instructors\\instructorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\viewmodels\\instructors\\instructoreditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\viewmodels\\instructors\\instructoreditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\viewmodels\\instructors\\instructordetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\viewmodels\\instructors\\instructordetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\viewmodels\\instructors\\instructorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\viewmodels\\instructors\\instructorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,10 +130,6 @@
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\viewmodels\\users\\useraddrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\viewmodels\\users\\useraddrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,10 +146,6 @@
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -68,10 +156,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,24 +178,8 @@
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_9DDEKNH_SQLEXPRESS/Elearning/True/SqlTable/dbo.Instructors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -153,10 +221,6 @@
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\models\\courseimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -167,10 +231,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\services\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|solutionrelative:backendminiproject\\services\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20970BA5-5405-4C1E-BEF7-227987AD6A25}|BackendMiniProject\\BackendMiniProject.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\lahiye\\backendminiproject\\backendminiproject\\backendminiproject\\services\\interfaces\\iinstructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -192,8 +252,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Courses\\CourseEditVM.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\Courses\\CourseEditVM.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Courses\\CourseEditVM.cs",
+              "RelativeToolTip": "BackendMiniProject\\ViewModels\\Courses\\CourseEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:35:51.775Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -205,6 +278,331 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BackendMiniProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAswD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:30:16.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAcBAAAAAAAAAIA6wBoBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:31:39.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Program.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Program.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Program.cs",
+              "RelativeToolTip": "BackendMiniProject\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:24:50.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAAwOMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T20:57:10.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T21:04:09.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T22:18:29.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T07:40:45.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T22:19:10.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\CourseService.cs",
+              "RelativeToolTip": "BackendMiniProject\\Services\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:20:05.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T20:54:07.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T21:26:58.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Controllers\\InstructorController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowG4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:09:02.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Detail.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T22:15:28.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Create.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Create.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T22:14:56.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Instructor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T22:13:46.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T20:53:23.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SocialService.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\SocialService.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Services\\SocialService.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\SocialService.cs",
+              "RelativeToolTip": "BackendMiniProject\\Services\\SocialService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:11:17.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BackendMiniProject\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:36:33.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ISocialService.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\Interfaces\\ISocialService.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Services\\Interfaces\\ISocialService.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\Interfaces\\ISocialService.cs",
+              "RelativeToolTip": "BackendMiniProject\\Services\\Interfaces\\ISocialService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:10:42.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InstructorService.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\InstructorService.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Services\\InstructorService.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\InstructorService.cs",
+              "RelativeToolTip": "BackendMiniProject\\Services\\InstructorService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:35:01.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:31:00.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InstructorVM.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Instructors\\InstructorVM.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\Instructors\\InstructorVM.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Instructors\\InstructorVM.cs",
+              "RelativeToolTip": "BackendMiniProject\\ViewModels\\Instructors\\InstructorVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:07:52.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InstructorEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Instructors\\InstructorEditVM.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\Instructors\\InstructorEditVM.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Instructors\\InstructorEditVM.cs",
+              "RelativeToolTip": "BackendMiniProject\\ViewModels\\Instructors\\InstructorEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:07:28.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InstructorDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Instructors\\InstructorDetailVM.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\Instructors\\InstructorDetailVM.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Instructors\\InstructorDetailVM.cs",
+              "RelativeToolTip": "BackendMiniProject\\ViewModels\\Instructors\\InstructorDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:07:02.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InstructorCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Instructors\\InstructorCreateVM.cs",
+              "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\Instructors\\InstructorCreateVM.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Instructors\\InstructorCreateVM.cs",
+              "RelativeToolTip": "BackendMiniProject\\ViewModels\\Instructors\\InstructorCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:06:23.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Services\\EmailService.cs",
@@ -212,24 +610,11 @@
               "RelativeToolTip": "BackendMiniProject\\Services\\EmailService.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T13:48:48.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T13:48:48.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Program.cs",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Program.cs",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Program.cs",
-              "RelativeToolTip": "BackendMiniProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T14:22:41.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 30,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BackendMiniProject\\appsettings.Development.json",
@@ -241,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 31,
               "Title": "EmailSettings.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Helpers\\EmailSettings.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Helpers\\EmailSettings.cs",
@@ -253,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 32,
               "Title": "UserAddRoleVM.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Users\\UserAddRoleVM.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\Users\\UserAddRoleVM.cs",
@@ -265,33 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAAH4AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T21:04:09.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAKUAAAAAAAAAAAAAALkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T20:57:10.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 29,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Controllers\\AccountController.cs",
@@ -303,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 27,
               "Title": "dbo.AspNetUsers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_9DDEKNH_SQLEXPRESS/Elearning/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "dbo.AspNetUsers [Data]",
@@ -312,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 28,
               "Title": "VerifyEmail.cshtml",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\Account\\VerifyEmail.cshtml",
               "RelativeDocumentMoniker": "BackendMiniProject\\Views\\Account\\VerifyEmail.cshtml",
@@ -324,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 34,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Accounts\\LoginVM.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\Accounts\\LoginVM.cs",
@@ -336,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 33,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\ViewModels\\Accounts\\RegisterVM.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\ViewModels\\Accounts\\RegisterVM.cs",
@@ -348,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 35,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\appsettings.json",
               "RelativeDocumentMoniker": "BackendMiniProject\\appsettings.json",
@@ -360,19 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T20:53:23.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 36,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\Interfaces\\IEmailService.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Services\\Interfaces\\IEmailService.cs",
@@ -384,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 38,
               "Title": "SignUp.cshtml",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\Account\\SignUp.cshtml",
               "RelativeDocumentMoniker": "BackendMiniProject\\Views\\Account\\SignUp.cshtml",
@@ -396,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 37,
               "Title": "SignIn.cshtml",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\Account\\SignIn.cshtml",
               "RelativeDocumentMoniker": "BackendMiniProject\\Views\\Account\\SignIn.cshtml",
@@ -408,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 40,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\Shared\\Components\\Header\\Default.cshtml",
               "RelativeDocumentMoniker": "BackendMiniProject\\Views\\Shared\\Components\\Header\\Default.cshtml",
@@ -420,19 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T07:40:45.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 39,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Models\\AppUser.cs",
@@ -444,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 41,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
@@ -456,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 42,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BackendMiniProject\\Views\\Shared\\_Layout.cshtml",
@@ -468,19 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDAAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T20:31:39.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 44,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\UserController.cs",
@@ -492,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 43,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -504,19 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "BackendMiniProject\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T20:36:33.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 47,
               "Title": "CourseStudent.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Models\\CourseStudent.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Models\\CourseStudent.cs",
@@ -528,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 48,
               "Title": "Information.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Models\\Information.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Models\\Information.cs",
@@ -540,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 49,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Models\\Student.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Models\\Student.cs",
@@ -552,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 46,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Models\\Course.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Models\\Course.cs",
@@ -564,31 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Create.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Create.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Create.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Create.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T21:26:58.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAkwFQAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T20:31:00.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 45,
               "Title": "dbo.Instructors [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_9DDEKNH_SQLEXPRESS/Elearning/True/SqlTable/dbo.Instructors.sql",
               "ToolTip": "dbo.Instructors [Data]",
@@ -597,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 50,
               "Title": "InstructorSocial.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Models\\InstructorSocial.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Models\\InstructorSocial.cs",
@@ -609,7 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 51,
               "Title": "Social.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Models\\Social.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Models\\Social.cs",
@@ -621,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 52,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Models\\Category.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Models\\Category.cs",
@@ -633,7 +920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 53,
               "Title": "Instructor.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Models\\Instructor.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Models\\Instructor.cs",
@@ -645,7 +932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 54,
               "Title": "CourseImage.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Models\\CourseImage.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Models\\CourseImage.cs",
@@ -657,19 +944,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Index.cshtml",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Index.cshtml",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Course\\Index.cshtml",
-              "RelativeToolTip": "BackendMiniProject\\Areas\\Admin\\Views\\Course\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T20:54:07.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 55,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -681,7 +956,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 56,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
@@ -693,7 +968,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 57,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -705,19 +980,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "InstructorService.cs",
-              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\InstructorService.cs",
-              "RelativeDocumentMoniker": "BackendMiniProject\\Services\\InstructorService.cs",
-              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\InstructorService.cs",
-              "RelativeToolTip": "BackendMiniProject\\Services\\InstructorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T20:35:01.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 58,
               "Title": "IInstructorService.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Services\\Interfaces\\IInstructorService.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Services\\Interfaces\\IInstructorService.cs",
@@ -729,7 +992,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 59,
               "Title": "SliderController.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\SliderController.cs",
@@ -741,7 +1004,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 60,
               "Title": "InformationController.cs",
               "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\Areas\\Admin\\Controllers\\InformationController.cs",
               "RelativeDocumentMoniker": "BackendMiniProject\\Areas\\Admin\\Controllers\\InformationController.cs",
