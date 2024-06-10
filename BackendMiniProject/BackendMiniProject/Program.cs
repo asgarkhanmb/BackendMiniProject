@@ -16,8 +16,6 @@ builder.Services.AddIdentity<AppUser, IdentityRole>()
                 .AddDefaultTokenProviders();
 
 
-builder.Services.AddDbContext<AppDbContext>(options =>
-       options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
@@ -25,31 +23,15 @@ builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
 
 
-builder.Services.AddScoped<ISliderService, SliderService>();
-builder.Services.AddScoped<IInformationService, InformationService>();
-builder.Services.AddScoped<IAboutService, AboutService>();
-builder.Services.AddScoped<ICategoryService, CategoryService>();
-builder.Services.AddScoped<ICourseService, CourseService>();
-builder.Services.AddScoped<IInstructorService, InstructorService>();
 
 
 
 
 
 
-builder.Services.Configure<IdentityOptions>(opt =>
-{
-    opt.Password.RequiredUniqueChars = 1;
-    opt.Password.RequireNonAlphanumeric = true;
-    opt.Password.RequireDigit = true;
-    opt.Password.RequireLowercase = true;
-    opt.Password.RequireUppercase = true;
 
 
-    opt.User.RequireUniqueEmail = true;
 
-    opt.SignIn.RequireConfirmedEmail = true;
-});
 
 
 
