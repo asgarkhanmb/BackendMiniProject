@@ -1,0 +1,52 @@
+﻿@model IEnumerable<StudentVM>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<main style="margin-top: 70px; margin-left:60px;">
+    <div class="container mt-5">
+        <h2 class="text-center">Students</h2>
+        <div class="create-operation">
+            <a asp-action="Create" class="btn btn-success text-white btn-sm"><i class="ti-plus"></i></a>
+        </div>
+        <div class="card mt-3">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Image</th>
+                        <th>FullName</th>
+                        <th>Operations</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+
+                            <td>
+
+                                <img style="witdh:100px;height:200px;" src="~/admin/assets/images/@item.Image" />
+
+                            </td>
+
+                            <td>@item.FullName</td>
+                            <td>
+
+                                <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-primary text-white btn-sm"><i class="ti-info"></i></a>
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning text-white btn-sm"><i class="ti-pencil"></i></a>
+                                <form class="d-inline" asp-action="Delete" method="post" asp-route-id="@item.Id">
+                                    <button type="submit" class="btn btn-danger text-white btn-sm"><i class="ti-trash"></i></button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</main>
+

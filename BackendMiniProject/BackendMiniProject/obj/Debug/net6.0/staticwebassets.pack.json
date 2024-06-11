@@ -241,6 +241,10 @@
       "PackagePath": "staticwebassets\\admin\\assets\\images\\0769d356-3e6d-4031-8946-11f6f8599a37-cat-4.jpg"
     },
     {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\0a761a57-3de1-430b-92d3-59fdc9b3fae2-testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\0a761a57-3de1-430b-92d3-59fdc9b3fae2-testimonial-3.jpg"
+    },
+    {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\1b3ca16d-4aa0-45ed-a886-5d257eea0950-course-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\1b3ca16d-4aa0-45ed-a886-5d257eea0950-course-1.jpg"
     },
@@ -257,8 +261,24 @@
       "PackagePath": "staticwebassets\\admin\\assets\\images\\34590731-6167-4122-906b-c8aac0c5394d-open-book.png"
     },
     {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\39a62eb5-ac23-4e02-918b-ed34073ab91f-team-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\39a62eb5-ac23-4e02-918b-ed34073ab91f-team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\47bdd775-022b-4e16-b8c4-738648662bb0-course-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\47bdd775-022b-4e16-b8c4-738648662bb0-course-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\506b2f68-6e10-4ffb-b458-95fcd469887e-testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\506b2f68-6e10-4ffb-b458-95fcd469887e-testimonial-1.jpg"
+    },
+    {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\5862ee24-dc0a-46a5-9a9e-c360f9b49cac-graduations.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\5862ee24-dc0a-46a5-9a9e-c360f9b49cac-graduations.png"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\626b28a8-7122-442b-8775-497bea05a6ef-team-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\626b28a8-7122-442b-8775-497bea05a6ef-team-4.jpg"
     },
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\6524f809-3b96-4a0d-9349-48d6306f0331-course-1.jpg",
@@ -289,8 +309,20 @@
       "PackagePath": "staticwebassets\\admin\\assets\\images\\Thumbs.db"
     },
     {
-      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\a46bf626-31ba-4019-8279-86e6533cf9c5-team-1.jpg",
-      "PackagePath": "staticwebassets\\admin\\assets\\images\\a46bf626-31ba-4019-8279-86e6533cf9c5-team-1.jpg"
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\a03e9226-8f58-4265-b511-8a0a24a28917-team-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\a03e9226-8f58-4265-b511-8a0a24a28917-team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\a421c868-8224-4bc0-aa5a-f5a5674a4a49-testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\a421c868-8224-4bc0-aa5a-f5a5674a4a49-testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\a9ff7577-5a90-4d79-9fe5-fb23ac86714c-testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\a9ff7577-5a90-4d79-9fe5-fb23ac86714c-testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\ad900a63-17d3-4bfd-99f4-6275dc16a049-course-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\ad900a63-17d3-4bfd-99f4-6275dc16a049-course-1.jpg"
     },
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\auth\\Logo-small-bottom.png",
@@ -405,6 +437,10 @@
       "PackagePath": "staticwebassets\\admin\\assets\\images\\browser\\safari.png"
     },
     {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\c250ad0f-7c2a-4a89-aa14-e7e3e4a1df1f-course-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\c250ad0f-7c2a-4a89-aa14-e7e3e4a1df1f-course-3.jpg"
+    },
+    {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\c59443d3-2166-4eb1-afd5-a322d3ec9387-cat-2.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\c59443d3-2166-4eb1-afd5-a322d3ec9387-cat-2.jpg"
     },
@@ -435,6 +471,10 @@
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\e8006369-4368-402e-bb85-83de2cb3e6e1-course-1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\e8006369-4368-402e-bb85-83de2cb3e6e1-course-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\f8904988-bc04-4ba2-90d3-f1032b312a3c-team-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\f8904988-bc04-4ba2-90d3-f1032b312a3c-team-2.jpg"
     },
     {
       "Id": "C:\\Users\\Əsgərxan\\Desktop\\Lahiye\\BackendMiniProject\\BackendMiniProject\\BackendMiniProject\\wwwroot\\admin\\assets\\images\\faq_man.png",

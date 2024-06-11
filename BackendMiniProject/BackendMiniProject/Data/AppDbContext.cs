@@ -19,9 +19,9 @@ namespace BackendMiniProject.Data
 
         public DbSet<Social> Socials { get; set; }
         public DbSet<Student> Students { get; set; }
-        //public DbSet<Setting> Settings { get; set; }
-        //public DbSet<SocialMediaCompany> SocialMediasCompany { get; set; }
-        //public DbSet<Contact> Contacts { get; set; }
+        public DbSet<Setting> Settings { get; set; }
+        public DbSet<SocialMediaCompany> SocialMediasCompany { get; set; }
+
 
     }
 }
